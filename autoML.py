@@ -2,7 +2,6 @@
 # coding: utf-8
 
 # In[18]:
-! pip install -r requirements.txt
 import streamlit as st
 import pandas as pd
 from pandas_profiling import ProfileReport

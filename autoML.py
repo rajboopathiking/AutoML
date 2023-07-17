@@ -3,7 +3,6 @@
 
 # In[18]:
 
-
 import streamlit as st
 import pandas as pd
 from pandas_profiling import ProfileReport

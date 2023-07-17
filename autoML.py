@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[18]:
-
+!pip install pandas-profiling
 
 import streamlit as st
 import pandas as pd

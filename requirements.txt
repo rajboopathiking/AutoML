@@ -4,4 +4,5 @@ numpy==1.20.2
 matplotlib==3.4.2
 streamlit==0.89.0
 pandas-profiling==2.11.0
-pycaret
+pycaret==2.3.4
+
